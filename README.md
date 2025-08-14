@@ -1,6 +1,7 @@
 # Reproducibility Guide: The Ephraim Convergence
 
-**Repository**: [NohMadLLC/The-Ephraim-Convergence-Prophecy-Genetics-and-the-Transatlantic-Diaspora](https://github.com/NohMadLLC/The-Ephraim-Convergence-Prophecy-Genetics-and-the-Transatlantic-Diaspora)
+**Repository**: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16864969.svg)](https://doi.org/10.5281/zenodo.16864969)
+ [NohMadLLC/The-Ephraim-Convergence-Prophecy-Genetics-and-the-Transatlantic-Diaspora](https://github.com/NohMadLLC/The-Ephraim-Convergence-Prophecy-Genetics-and-the-Transatlantic-Diaspora)
 **DOI (Zenodo)**: [10.5281/zenodo.16864969](https://doi.org/10.5281/zenodo.16864969)
 
 ---
